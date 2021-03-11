@@ -5,47 +5,47 @@
 }
 {
   "watername":"Saryagash"
-  "id":2
-  "price":
+  "id":2,
+  "price": 200,
 }
-
+    
 {
   "watername":"Alive"
   "id":3
-  "price":
+  "price":210,
 }
 {
   "watername":"Khan"
   "id":4
-  "price":
+  "price":190 ,
 }
 {
   "watername":"Bonaqua"
   "id":5
-  "price":
+  "price": 180 ,
 }
 {
   "watername":"Tassay"
   "id":6
-  "price":
+  "price":190 ,
 }
 {
   "watername":"Essentuki"
   "id":7
-  "price":
+  "price": 200 ,
 }
 {
   "watername":"Borjomi"
   "id":8
-  "price":
+  "price":210 , 
 }
 {
   "watername":"Uas"
   "id":9
-  "price":
+  "price":220 ,
 }
 {
   "watername":"Tarew"
   "id":10
-  "price":
+  "price": 230,
 }
