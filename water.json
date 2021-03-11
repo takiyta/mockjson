@@ -1,44 +1,44 @@
 {
   "water":[
-    {"name":"Asu"
-     "id":1
-     "price": 220
+    {"name":"Asu",
+     "id":1,
+     "price": 220,
     },
-    {"name":"Saryagash"
-     "id":2
-     "price": 240
+    {"name":"Saryagash",
+     "id":2,
+     "price": 240,
     },
-    {"name":"Bonaqua"
-     "id":3
-     "price": 170
+    {"name":"Bonaqua",
+     "id":3,
+     "price": 170,
     },
-    {"name":"Khan"
-     "id":4
-     "price": 210
+    {"name":"Khan",
+     "id":4,
+     "price": 210,
     },
-    {"name":"Essentuki"
-     "id":5
-     "price": 190
+    {"name":"Essentuki",
+     "id":5,
+     "price": 190,
     },
-    {"name":"Alatay"
-     "id":6
-     "price": 150
+    {"name":"Alatay",
+     "id":6,
+     "price": 150,
     },
-    {"name":"Altai"
-     "id":7
-     "price": 200
+    {"name":"Altai",
+     "id":7,
+     "price": 200,
     },
-    {"name":"Sua"
-     "id":8
-     "price": 310
+    {"name":"Sua",
+     "id":8,
+     "price": 310,
     },
-    {"name":"Nomad"
-     "id":9
-     "price": 320
+    {"name":"Nomad",
+     "id":9,
+     "price": 320,
     },
-    {"name":"Ozen"
-     "id":10
-     "price": 120
+    {"name":"Ozen",
+     "id":10,
+     "price": 120,
     }]
 }
   
