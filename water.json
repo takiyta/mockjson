@@ -1,51 +1,45 @@
 {
-  "waterName":"Asu",
-  "id":1,
-  "price": 220, 
+  "water":[
+    {"name":"Asu"
+     "id":1
+     "price": 220
+    },
+    {"name":"Saryagash"
+     "id":2
+     "price": 240
+    },
+    {"name":"Bonaqua"
+     "id":3
+     "price": 170
+    },
+    {"name":"Khan"
+     "id":4
+     "price": 210
+    },
+    {"name":"Essentuki"
+     "id":5
+     "price": 190
+    },
+    {"name":"Alatay"
+     "id":6
+     "price": 150
+    },
+    {"name":"Altai"
+     "id":7
+     "price": 200
+    },
+    {"name":"Sua"
+     "id":8
+     "price": 310
+    },
+    {"name":"Nomad"
+     "id":9
+     "price": 320
+    },
+    {"name":"Ozen"
+     "id":10
+     "price": 120
+    }]
 }
-{
-  "watername":"Saryagash"
-  "id":2,
-  "price": 200,
-}
-    
-{
-  "watername":"Alive"
-  "id":3
-  "price":210,
-}
-{
-  "watername":"Khan"
-  "id":4
-  "price":190 ,
-}
-{
-  "watername":"Bonaqua"
-  "id":5
-  "price": 180 ,
-}
-{
-  "watername":"Tassay"
-  "id":6
-  "price":190 ,
-}
-{
-  "watername":"Essentuki"
-  "id":7
-  "price": 200 ,
-}
-{
-  "watername":"Borjomi"
-  "id":8
-  "price":210 , 
-}
-{
-  "watername":"Uas"
-  "id":9
-  "price":220 ,
-}
-{
-  "watername":"Tarew"
-  "id":10
-  "price": 230,
-}
+  
+  
